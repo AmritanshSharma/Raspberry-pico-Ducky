@@ -26,3 +26,9 @@ Interface Device class at the suggestion of Tom Schmidt of DEC because the propo
 supported bi-directional communication
 
 ![SS-2](https://user-images.githubusercontent.com/67572145/203763389-a33b8439-0e0d-48b9-b65c-a174ef3fd7c3.png)
+
+
+
+##STEPS
+1 We are converting our raspberry pico into a HID
+2 Uploading a powershell script to disable windows defender in wins 10 and 11
