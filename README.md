@@ -29,6 +29,8 @@ supported bi-directional communication
 
 
 
-##STEPS
-1 We are converting our raspberry pico into a HID
-2 Uploading a powershell script to disable windows defender in wins 10 and 11
+# STEPS
+
+ 1. We are converting our raspberry pico into a HID
+
+ 2. Uploading a powershell script to disable windows defender in wins 10 and 11
