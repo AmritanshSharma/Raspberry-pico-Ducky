@@ -1,9 +1,16 @@
 # Raspberry-pico-Ducky
-bad USB using raspberry Pico with 1 payload
+
+# Objective
+
+Bad USB using raspberry Pico with 1 payload
+The Raspberry Pi Pico series is a range of tiny, fast, and versatile boards built using RP2040
+the flagship microcontroller chip designed by Raspberry Pi in the UK
+#Bad Usb
+BadUSB is an attack that exploits an inherent vulnerability in USB firmware. Such an attack reprograms a USB device, 
+causing it to act as a human interface device; once re-engineered,
+the USB device is used to discreetly execute commands or run malicious programs on the victim's computer.
 
 
-
-##screenshots
 
 
 
