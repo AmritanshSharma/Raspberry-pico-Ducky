@@ -16,3 +16,11 @@ the USB device is used to discreetly execute commands or run malicious programs 
 
 
 ![SS-0](https://user-images.githubusercontent.com/67572145/203754448-e9914aa5-3841-4bf5-85b8-1068aa7d0d2c.jpg)
+
+# HID
+
+The term "HID" most commonly refers to the USB-HID specification. The term was coined
+by Mike Van Flandern of Microsoft when he proposed that the USB committee create a
+Human Input Device class working group.The working group was renamed as the Human
+Interface Device class at the suggestion of Tom Schmidt of DEC because the proposed standard 
+supported bi-directional communication
