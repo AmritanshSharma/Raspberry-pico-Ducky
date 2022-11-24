@@ -24,3 +24,5 @@ by Mike Van Flandern of Microsoft when he proposed that the USB committee create
 Human Input Device class working group.The working group was renamed as the Human
 Interface Device class at the suggestion of Tom Schmidt of DEC because the proposed standard 
 supported bi-directional communication
+
+![SS-2](https://user-images.githubusercontent.com/67572145/203763389-a33b8439-0e0d-48b9-b65c-a174ef3fd7c3.png)
